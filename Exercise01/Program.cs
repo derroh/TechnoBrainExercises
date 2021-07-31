@@ -29,7 +29,7 @@ namespace Exercise01
                 if (RegexFunctions.IsValidInput(userInput, regEx))
                 {
                     Console.WriteLine("{0} matches {1}? {2}", userInput, regEx, true);
-                    break;
+                   // break; until user esc
                 }
                 else
                 {

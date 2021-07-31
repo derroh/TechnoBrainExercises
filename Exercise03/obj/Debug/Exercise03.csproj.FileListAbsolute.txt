@@ -8,3 +8,12 @@ C:\Users\Derrick\Documents\Visual Studio 2019\Projects\C#\.NET Framework\Exercis
 C:\Users\Derrick\Documents\Visual Studio 2019\Projects\C#\.NET Framework\Exercise03\obj\Debug\Exercise03.csproj.CopyComplete
 C:\Users\Derrick\Documents\Visual Studio 2019\Projects\C#\.NET Framework\Exercise03\obj\Debug\Exercise03.exe
 C:\Users\Derrick\Documents\Visual Studio 2019\Projects\C#\.NET Framework\Exercise03\obj\Debug\Exercise03.pdb
+C:\Users\Derrick\Documents\Visual Studio 2019\Projects\C#\.NET Framework\TechnoBrainExercises\Exercise03\bin\Debug\Exercise03.exe.config
+C:\Users\Derrick\Documents\Visual Studio 2019\Projects\C#\.NET Framework\TechnoBrainExercises\Exercise03\bin\Debug\Exercise03.exe
+C:\Users\Derrick\Documents\Visual Studio 2019\Projects\C#\.NET Framework\TechnoBrainExercises\Exercise03\bin\Debug\Exercise03.pdb
+C:\Users\Derrick\Documents\Visual Studio 2019\Projects\C#\.NET Framework\TechnoBrainExercises\Exercise03\bin\Debug\Exercise02.dll
+C:\Users\Derrick\Documents\Visual Studio 2019\Projects\C#\.NET Framework\TechnoBrainExercises\Exercise03\bin\Debug\Exercise02.pdb
+C:\Users\Derrick\Documents\Visual Studio 2019\Projects\C#\.NET Framework\TechnoBrainExercises\Exercise03\obj\Debug\Exercise03.csproj.CoreCompileInputs.cache
+C:\Users\Derrick\Documents\Visual Studio 2019\Projects\C#\.NET Framework\TechnoBrainExercises\Exercise03\obj\Debug\Exercise03.csproj.CopyComplete
+C:\Users\Derrick\Documents\Visual Studio 2019\Projects\C#\.NET Framework\TechnoBrainExercises\Exercise03\obj\Debug\Exercise03.exe
+C:\Users\Derrick\Documents\Visual Studio 2019\Projects\C#\.NET Framework\TechnoBrainExercises\Exercise03\obj\Debug\Exercise03.pdb

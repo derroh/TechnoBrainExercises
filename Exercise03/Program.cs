@@ -12,14 +12,26 @@ namespace Exercise03
     {
         static void Main(string[] args)
         {
-            string number = null;
-            Console.WriteLine("Enter a number: ");
-            number = Console.ReadLine();
-            
-            //get rid of commas before passing to our class library
-            number = number.Replace(",", "");
-            //output message
-            Console.Write(Exercise02.Towards(number));
+            do
+            {
+                Console.WriteLine("Enter a number: ");
+                string number = Console.ReadLine();
+
+                number = number.Replace(",", "");
+
+                int value;
+                if (int.TryParse(number, out value))
+                {
+                    //output message
+                    Console.Write(Exercise02.Towards(number));
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Your input does't match the accepted values ");
+                }                 
+
+            } while (true);
 
             Console.ReadKey();
         }
