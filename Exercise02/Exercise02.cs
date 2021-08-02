@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Exercise02
 {
-    public class Exercise02
+    public static class Exercise02
     {
-        public static string Towards(string Number)
+        public static string Towards(this String Number)
         {
            string word = "";
             try

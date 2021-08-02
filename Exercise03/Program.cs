@@ -23,7 +23,7 @@ namespace Exercise03
                 if (int.TryParse(number, out value))
                 {
                     //output message
-                    Console.Write(Exercise02.Towards(number));
+                    Console.Write(number.Towards());
                     break;
                 }
                 else
